@@ -1,0 +1,24 @@
+{
+  "name": "love",
+  "vendorId": "0x5363",
+  "productId": "0x003",
+  "matrix": {
+      "rows": 2,
+      "cols": 2
+  },
+  "layouts": {
+      "keymap":[
+        [
+          "0,0",
+          "0,1"
+        ],
+        [
+          {
+            "x": 0.5
+          },
+          "1,0"
+        ]
+      ]
+  }
+}
+
